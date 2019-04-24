@@ -1,0 +1,1017 @@
+{
+	"clients":
+	[
+        {
+			"alt": "Blizzard Entertainment",
+			"img": "blizzard.png"
+		},
+        {
+			"alt": "Disney",
+			"img": "disney.png"
+		},
+		{
+			"alt": "Pixar Animation Studios",
+			"img": "pixar.png"
+		},
+		{
+			"alt": "Sony Pictures",
+			"img": "sony.png"
+		},
+		{
+			"alt": "The Simpsons",
+			"img": "simpsons.png"
+		},
+		{
+			"alt": "South Park",
+			"img": "southpark.png"
+		},
+		{
+			"alt": "ABC",
+			"img": "abc.png"
+		},
+		{
+			"alt": "FOX",
+			"img": "fox.png"
+		},
+		{
+			"alt": "Kia",
+			"img": "kia.png"
+		},
+		{
+			"alt": "Lexus",
+			"img": "lexus.png"
+		},
+		{
+			"alt": "Lifetime",
+			"img": "lifetime.png"
+		},
+		{
+			"alt": "Google",
+			"img": "google.png"
+		},
+		{
+			"alt": "HBO",
+			"img": "hbo.png"
+		},
+		{
+			"alt": "Netflix",
+			"img": "netflix.png"
+		},
+		{
+			"alt": "Esquire Network",
+			"img": "esquire.png"
+		},
+		{
+			"alt": "A&E",
+			"img": "ae.png"
+		},
+		{
+			"alt": "Toyota",
+			"img": "toyota.png"
+		},
+		{
+			"alt": "Honda",
+			"img": "honda.png"
+		},
+		{
+			"alt": "Starbucks",
+			"img": "starbucks.png"
+		},
+		{
+			"alt": "Chevy",
+			"img": "chevy.png"
+		},
+		{
+			"alt": "Gillette",
+			"img": "kia.png"
+		},
+		{
+			"alt": "Adobe",
+			"img": "adobe.png"
+		},
+		{
+			"alt": "PlayStation",
+			"img": "playstation.png"
+		},
+		{
+			"alt": "Activision",
+			"img": "activision.png"
+		},
+		{
+			"alt": "Esquire Network",
+			"img": "esquire.png"
+		},
+		{
+			"alt": "Namco",
+			"img": "namco.png"
+		},
+		{
+			"alt": "Nintendo",
+			"img": "nintendo.png"
+		},
+		{
+			"alt": "LucasArts",
+			"img": "lucasarts.png"
+		},
+		{
+			"alt": "Spike TV",
+			"img": "spike.png"
+		},
+		{
+			"alt": "24 Hour Fitness",
+			"img": "24h.png"
+		},
+		{
+			"alt": "Ask Jeeves",
+			"img": "ask.png"
+		},
+		{
+			"alt": "Jamba Juice",
+			"img": "jamba.png"
+		},
+		{
+			"alt": "PlayStation Portable",
+			"img": "psp.png"
+		},
+		{
+			"alt": "Nissan",
+			"img": "nissan.png"
+		},
+		{
+			"alt": "TBWA Chiat Day",
+			"img": "chiat.png"
+		},
+		{
+			"alt": "Saatchi & Saatchi",
+			"img": "saatchi.png"
+		},
+		{
+			"alt": "Ignited",
+			"img": "ignited.png"
+		},
+		{
+			"alt": "72andSUnny",
+			"img": "72.png"
+		},
+		{
+			"alt": "Juxt",
+			"img": "juxt.png"
+		},
+		{
+			"alt": "Y&R",
+			"img": "yr.png"
+		},
+		{
+			"alt": "David & Goliath",
+			"img": "dg.png"
+		},
+		{
+			"alt": "Grey",
+			"img": "grey.png"
+		}
+
+	],
+	"projects":
+	[
+       	{
+			"title": "New Hero Preview: Orisa (Blizzard)",
+			"byline": "Content Marketing",
+			"thumb": "thumb_owori.png",
+			"roles": "Senior Creative Supervisor",
+			"media": "Content Marketing",
+			"youtubeURLs": ["znEHH68unzA"],
+			"client": "Blizzard Entertainment",
+			"pretty": "orisa",
+			"blurb": "Get a behind-the-scenes look at the development of Overwatch's newest hero, Orisa!",
+            "singleImages": []
+		},
+		{
+			"title": "Journey to Un'Goro (Blizzard)",
+			"byline": "Content Marketing",
+			"thumb": "thumb_hsuga.png",
+			"roles": "Senior Creative Supervisor",
+			"media": "Content Marketing",
+			"youtubeURLs": ["xAHwjbKQi04"],
+			"client": "Blizzard Entertainment",
+			"pretty": "ungoroannounce",
+			"blurb": "Join Production Director Jason Chayes and Game Director Ben Brode as they unveil Hearthstone’s next expansion: Journey to Un’Goro!",
+            "singleImages": []
+		},   
+		{
+			"title": "Overwatch Winter Wonderland (Blizzard)",
+			"byline": "Video Game Trailer",
+			"thumb": "thumb_owww.png",
+			"roles": "Project Director",
+			"media": "Video Game Trailer",
+			"youtubeURLs": ["8Gjn0ObXWak"],
+			"client": "Blizzard Entertainment",
+			"pretty": "overwatchleaguewinterwonderland",
+			"blurb": "The season of giving and receiving is here, and we’re ready to celebrate. For the holiday season, every day is a snow day in Overwatch! Unwrap all new holiday-themed loot, take a stroll through the decked halls of Hanamura and King's Row, and put your enemies on ice in our latest brawl--Mei’s Snowball Offensive.",
+            "singleImages": []
+		},		
+		{
+			"title": "Artistic Activism (Creative Action Network)",
+			"byline": "Illustration",
+			"thumb": "thumb_can1.png",
+			"roles": "Illustrator, Designer",
+			"media": "Digital, Social, Print, Merchandise",
+			"client": "Creative Action Network",
+			"pretty": "creativeactionnetwork",
+			"blurb": "The Creative Action Network is a marketplace for meaningful artwork and merchandise from a passionate community of artists and designers around the world harnessing their talents for good. These are a few of the pieces I've illustrated and designed as an activist in support of the causes I believe in.",
+            "singleImages": ["can_02.jpg", "can_03.jpg", "can_04.jpg", "can_05.jpg"]
+		},
+		{
+			"title": "Oasis Map Preview (Blizzard)",
+			"byline": "Content Marketing",
+			"thumb": "thumb_oasis.png",
+			"roles": "Project Director",
+			"media": "Content Marketing",
+			"youtubeURLs": ["rhVZ-QIu4jk"],
+			"client": "Blizzard Entertainment",
+			"pretty": "oasismap",
+			"blurb": "There's trouble in paradise as conflict breaks out in Oasis, a brand-new Control map set in one of the world's most advanced cities, a shining jewel rising from the Arabian Desert.",
+            "singleImages": []
+		},   
+		{
+			"title": "Forging a Hero (Blizzard)",
+			"byline": "Content Marketing",
+			"thumb": "thumb_arthas.png",
+			"roles": "Project Director",
+			"media": "Content Marketing",
+			"youtubeURLs": ["wognUb8CsJQ"],
+			"client": "Blizzard Entertainment",
+			"pretty": "forgingahero",
+			"blurb": "2016 marks the 25th anniversary of the founding of Blizzard Entertainment; and what better way to celebrate this epic milestone than by casting one of the company’s most iconic characters in a 14 foot, 4,000 pound, truly one-of-a-kind statue. Located on the Calligraphy Greenway in Taichung, Taiwan, this bronze portrayal of the Lich King Arthas Menethil wasn’t created just to commemorate an anniversary, but also to recognize and celebrate the incredible Taiwanese gaming community. We created this video to give you a glimpse at how an army of talented individuals came together to bring one of Blizzard Entertainment’s most tragic characters out of the game and into the world. We hope you can feel the effort and passion that went into making this concept a reality.",
+            "singleImages": []
+		},   
+        {
+			"title": "The Overwatch League (Blizzard)",
+			"byline": "Path to Glory Trailer",
+			"thumb": "thumb_owl.png",
+			"roles": "Project Director",
+			"media": "Video Game Trailer",
+			"youtubeURLs": ["OFHpK627XkI"],
+			"client": "Blizzard Entertainment",
+			"pretty": "overwatchleaguepathtoglory",
+			"blurb": "We're creating the world's premier esports ecosystem, and it all starts with you. The Overwatch League will turn distinguished amateurs into superstar athletes and give fans from every corner of the globe a professional team to root for. This video breaks it all down and lays out the path to professional eSports fame and fortune. This is your league!",
+            "singleImages": []
+		},
+		        {
+			"title": "Celebrating 25 Years (Blizzard)",
+			"byline": "BlizzCon 2016 Opening Ceremonies",
+			"thumb": "thumb_b25.png",
+			"roles": "Writer, Director",
+			"media": "Community Video",
+			"youtubeURLs": ["phUgzmvBZ3I"],
+			"client": "Blizzard Entertainment",
+			"pretty": "celebrating25years",
+			"blurb": "25 years ago, a small group of gamers set out to create the kinds of game experiences they loved playing—and Blizzard Entertainment was born. Since then, the team at Blizzard has transported millions of people around the world to fantastic worlds of fantasy and science fiction. This is the first piece that I wrote and directed at Blizzard, and I'm honored that it was selected to be featured in front of thousands of BlizzCon attendees and 25 million television viewers as a definitive representation of our collective history as gamers.",
+            "singleImages": []
+		},
+        {
+			"title": "Overwatch Summer Games (Blizzard)",
+			"byline": "Video Game Trailer",
+			"thumb": "thumb_owsg.png",
+			"roles": "Project Director",
+			"media": "Video Game Trailer",
+			"youtubeURLs": ["qpcOD9tJM4k"],
+			"client": "Blizzard Entertainment",
+			"pretty": "overwatchsummergames",
+			"blurb": "The Overwatch Summer Games have begun! Celebrate the spirit of competition with over 100 seasonal Loot Box items—including skins, highlight intros, emotes, sprays, and more—or grab your friends and hit the soccer field in our brand new brawl, Lúcioball.",
+            "singleImages": []
+		},
+        {
+			"title": "Overwatch Street Date Reveal (Blizzard)",
+			"byline": "Video Game Trailer",
+			"thumb": "thumb_owsdr.png",
+			"roles": "Project Director",
+			"media": "Video Game Trailer",
+			"youtubeURLs": ["OKv-GSArdPY"],
+			"client": "Blizzard Entertainment",
+			"pretty": "overwatchstreetdatereveal",
+			"blurb": "In Overwatch, you control one of several heroes in competitive 6 person team shooting matches. Battle over objectives, take down the other team, and achieve victory in diverse locations around the world. Your watch is about to begin!",
+            "singleImages": []
+		},
+        {
+			"title": "World of Warcraft: Legion Preview (Blizzard)",
+			"byline": "Video Game Trailer",
+			"thumb": "thumb_wowlp.png",
+			"roles": "Project Director",
+			"media": "Video Game Trailer",
+			"youtubeURLs": ["nnjGw9ZL3QQ"],
+			"client": "Blizzard Entertainment",
+			"pretty": "worldofwarcraftlegionpreview",
+			"blurb": "Take an extended look at many of the new zones, dungeons, bosses, and features coming to World of Warcraft on August 30.",
+            "singleImages": []
+		},        
+        {
+			"title": "Overwatch Ana Origin Story (Blizzard)",
+			"byline": "Video Game Trailer",
+			"thumb": "thumb_owaos.png",
+			"roles": "Project Director",
+			"media": "Video Game Trailer",
+			"youtubeURLs": ["yzFWIw7wV8Q"],
+			"client": "Blizzard Entertainment",
+			"pretty": "worldofwarcraftanaoriginstory",
+			"blurb": "Discover the untold story behind Overwatch's lost agent, Ana. And keep an eye out for hidden messages from Sombra!",
+            "singleImages": []
+		},
+        {
+			"title": "Camry (Toyota)",
+			"byline": "Integrated Campaign",
+			"thumb": "thumb_cmry.png",
+			"roles": "Creative Director",
+			"media": "Integrated Campaign",
+			"youtubeURLs": ["By-4hJqO8GU"],
+			"client": "Toyota",
+			"pretty": "camry",
+			"blurb": "Ever think about how your driveway directly connects to every great road in this country?",
+            "singleImages": ["cmry_01.jpg", "cmry_02.jpg"]
+		},
+        {
+			"title": "Seinfeld (Hulu)",
+			"byline": "Integrated Campaign",
+			"thumb": "thumb_sein.png",
+			"roles": "ACD/Design",
+			"media": "Integrated Campaign",
+			"youtubeURLs": ["6hX7hyf66qY"],
+			"client": "Hulu",
+			"pretty": "seinfeld",
+			"blurb": "Proud to have collaborated with the talented folks at Hulu where I freelanced as an ACD/Design Lead and contributed digital, design, animation, motion graphics, experiential and content creative to this Clio Award-winning integrated campaign celebrating the Seinfeld launch. Happy Festivus!",
+            "singleImages": []
+		},
+        {
+			"title": "Impact Challenge (Google)",
+			"byline": "Integrated Campaign",
+			"thumb": "thumb_gic.png",
+			"roles": "Freelance Creative",
+			"media": "Integrated Campaign",
+			"youtubeURLs": ["CNm48ru-tKA"],
+			"client": "Google",
+			"pretty": "googleimpactchallenge",
+			"blurb": "The Special Olympics World Games and the Google Impact Challenge: Disabilities share the same goal – changing the landscape of accessibility and inclusivity for people with disabilities. At the 2015 Special Olympic World Games, we built an experience that celebrates some of the ways technology, people and the power of questions can help to create a more inclusive world for everyone. Additionally, if you Take a walk around D.C. you may stumble across some newly installed murals honoring leaders in the fight for equality for people with disabilities. 2015 marks the 25th anniversary of the passage of the Americans with Disability Act — landmark legislation signed into law in 1990 that prohibits discrimination on the basis of someone’s disability. Google.org is celebrating the anniversary and the 2105 Special Olympics with a series of installations throughout the city. There are 10 temporary pieces at six locations in the city. Illustrated by Darren Booth, each mural honors a different person with his or her portrait and a quote. The murals can be found at the National Portrait Gallery, National Museum of American History, Woodrow Wilson Plaza, Newseum, Gallaudet University and the Carnegie Library. Google will also have these sticker murals displayed in Los Angeles, where the Special Olympics is being held this year. To accompany the murals, we also created an anthemic video highlighting the historic work of the honored activists.",
+            "singleImages": ["gic_00.jpg", "gic_01.jpg", "gic_02.jpg", "gic_03.jpg", "gic_04.jpg", "gic_05.jpg"]
+		},
+        {
+			"title": "Corolla (Toyota)",
+			"byline": "Integrated Campaign",
+			"thumb": "thumb_crla.png",
+			"roles": "Creative Director",
+			"media": "Integrated Campaign",
+			"youtubeURLs": ["4zNJqgWz6RY"],
+			"client": "Toyota",
+			"pretty": "corolla",
+			"blurb": "Wherever you’re headed, all you need to see is the next 200 feet ahead. So just keep going.",
+            "singleImages": ["crla_01.jpg"]
+		},
+        {
+			"title": "Rhett+Link's Bold Surprise (Toyota)",
+			"byline": "Digital, Social",
+			"thumb": "thumb_rl.png",
+			"roles": "Creative Director",
+			"media": "Digital, Social",
+			"youtubeURLs": ["6QZwNo5Z5EY"],
+			"client": "Toyota",
+			"pretty": "boldsurprise",
+			"blurb": "Ever wonder what it’s like to drive through a ring of fire? Wonder no more. To prove to the world that one bold choice deserves another, we took YouTube celebrities Rhett and Link to Las Vegas and gave them the ride and drive of a lifetime! Little did they know that after a day of shrieking like little ladies while doing dusty donuts on a dry lake bed, they would be challenged to put the bold new Camry through its paces at the Monster Energy Cup supercross track! Pyrotechnic specialists and supercross riders added to the general mayhem and mania as Rhett and Link struggled to keep their cool. The look on their faces is pure joy tinged with 'I may have just crapped myself' excitement. With a carefully orchestrated channel strategy, the videos were teased on Twitter, Facebook and Instagram prior to the launch on YouTube, which coincided with a segment of Rhett and Link's show which was devoted to celebrating their experience and pushing their fans to the video as well. Leveraging the social channels of our influencers yielded us over 1 million Facebook views thus far in this incredibly well-received social content component of the larger 2015 Camry launch campaign.",
+            "singleImages": ["rl_01.jpg", "rl_02.jpg", "rl_03.jpg", "rl_04.jpg"]
+		},
+        {
+			"title": "Prius Heritage (Toyota)",
+			"byline": "Outdoor",
+			"thumb": "thumb_pod.png",
+			"roles": "Creative Director",
+			"media": "Outdoor",
+			"client": "Toyota",
+			"pretty": "priusheritage",
+			"blurb": "To remind our audience that the Prius was the hybrid that started it all over fifteen years ago, we brought three generations of Prius to the rolling golden hills of Joughin Ranch to capture a beautiful moment of eco-friendly caravanning in sunny southern California.",
+			"singleImages": ["pod_01.jpg", "pod_02.jpg"]
+		},
+        {
+			"title": "Coach T (Toyota)",
+			"byline": "Digital, Social",
+			"thumb": "thumb_ct.png",
+			"roles": "Creative Director, Designer",
+			"media": "Digital, Social",
+            "youtubeURLs": ["wgRvSjkvrkQ", "YiMgR7-SLO8"],
+			"client": "Toyota",
+			"pretty": "coacht",
+			"blurb": "How do you get viewers excited about watching new TV spots in an expandable rich media unit? You show them a Hollywood-style movie trailer featuring a mash-up of the most hilarious moments from the very same spots! Also in support of the broadcast work, we created a series of 'cinematic moments' as social posts starring Toyota icon Coach T. Each image was designed to evoke the nostalgic associations to themes, scenes, titles and posters from famous films over the decades. To keep the social momentum going, we even invited Coach T to take over Toyota's official Twitter account during one special Sunday night where he live-tweeted the entire game in his signature tone to the delight of his many fans.",
+			"singleImages": ["ct_01.jpg", "ct_02.jpg"]
+		},        
+		{
+			"title": "See America (Creative Action Network)",
+			"byline": "Illustration",
+			"thumb": "thumb_can.png",
+			"roles": "Illustrator",
+			"media": "Digital, Social, Print",
+			"client": "Creative Action Network",
+			"pretty": "seeamerica",
+			"blurb": "The Creative Action Network is a marketplace for meaningful merchandise, from a passionate community of artists and designers around the world harnessing their talents for good. Reviving the legacy of the New Deal arts projects, CAN invited artists & designers like me from all 50 states to create a new collection of See America posters celebrating our shared natural landmarks and treasured sites. I chose to capture the Golden Gate Bridge because, as a lifelong resident of California and a previous resident of San Francisco, there is no sight more awe inspiring and majestic than this iconic red beauty spanning across the bay. It is a bold and enduring testament to the ingenuity, artistry and spirit of San Francisco. The Golden Gate National Recreation Area is a U.S. National Recreation Area protecting 80,002 acres of ecologically- and historically-significant landscapes surrounding the San Francisco Bay Area as well as the bridge itself. You can purchase a print or product featuring this illustration at shop.thecreativeactionnetwork.com. I hope this image inspires you to 'See America!'",
+            "singleImages": ["can_01.jpg"]
+		},
+        {
+			"title": "Prius Portraits (Toyota)",
+			"byline": "Digital, Social",
+			"thumb": "thumb_pp.png",
+			"roles": "Creative Director",
+			"media": "Digital, Social",
+			"youtubeURLs": ["Bvq8j8q6j2Y", "OndCof38fjQ", "Tx_rcUNCxGM", "2viVNHlM-Zg"],
+			"client": "Toyota",
+			"pretty": "priusportraits",
+			"blurb": "Prius drivers always have a lot to say about why they love their Prius. To celebrate this phenomenon and to reinforce the heritage of the world's most popular hybrid, Toyota launched Prius Portraits, a digital/social campaign that introduced the world to some typical Prius owners across the spectrum of profession, age, sex, and lifestyle. First we'll get to know Gary Plummer and marvel at his vintage motorcycle helmet collection. People don’t always think of motorcycles, firefighters and rock music when they hear 'Prius,' but this family is definitely challenging that perception. Next we'll Meet Brandon and Alex Russ and the third member of their family, their Toyota Prius. When shopping for a car, Brandon was looking for fuel economy and reliability, but his wife Alex wasn’t sold on a hybrid until she discovered the Power button. Lastly, we'll say hello to the Huangs. Toyotas have been in the Huang family for three generations. They're united by their love for travel, the environment and their  Prius.",
+            "singleImages": ["pp_01.jpg", "pp_02.jpg", "pp_03.jpg", "pp_04.jpg", "pp_05.jpg"]
+		},
+        {
+			"title": "+mystory (Personal)",
+			"byline": "Software Product",
+			"thumb": "thumb_pms.png",
+			"roles": "Sole Creator/Inventor",
+			"media": "Software",
+			"client": "Personal",
+			"pretty": "plusmystory",
+			"blurb": "While attempting to write the great American young adult fantasy novel, I found that there were many points along the way that I felt compelled to seek the advice of my fellow writers, friends, and strangers alike. Looking to others for inspiration and guidance in my creative decision-making process allowed me and my writing to benefit from their feedback and opinions, encouraging me to move forward with new perspective and newfound confidence. The result of this insight is a software concept called '+mystory' which I conceived of and created in hopes of one day helping other aspiring writers like myself. If you like the idea and have a couple million to invest in Round One funding, please let me know!",
+            "singleImages": ["pms_01.jpg", "pms_02.jpg", "pms_03.jpg", "pms_04.jpg", "pms_05.jpg", "pms_06.jpg", "pms_07.jpg", "pms_08.jpg", "pms_09.jpg", "pms_10.jpg", "pms_11.jpg", "pms_12.jpg", "pms_13.jpg", "pms_14.jpg"]
+		},
+        {
+			"title": "Prius Hyper-Lapse (Toyota)",
+			"byline": "Digital Content",
+			"thumb": "thumb_phl.png",
+			"roles": "Creative Director",
+			"media": "Digital",
+			"youtubeURLs": ["t1yiD1-pB9g"],
+			"client": "Toyota",
+			"pretty": "priushyperlapse",
+			"blurb": "In a partnership with mega-popular rideshare app Uber, we took the Prius Plug-In Hybrid up to San Franciosco to explore the sights and sounds of the famous city while also exploring the unique benefits of the Plug-In itself. Ride along with Zakk, a partner driver with Uber, as he takes the Prius Plug-in Hybrid on a test-drive across the Bay City. Along the way, he'll pick up some special passengers and we'll learn all about the most fuel-efficient vehicle in the Prius family.",
+            "singleImages": ["phl_01.jpg"]
+		},
+		{
+			"title": "NSX Configurator (Acura)",
+			"byline": "Mobile",
+			"thumb": "thumb_nsx.png",
+			"roles": "Creative Director, Designer",
+			"media": "Mobile",
+			"client": "Acura",
+			"pretty": "nsx",
+			"blurb": "A design prototype for a tablet-optimized build and price and vehicle configurator for the completely redesigned 2015 Acura NSX.",
+			"singleImages": ["nsx_01.jpg", "nsx_02.jpg", "nsx_03.jpg", "nsx_04.jpg", "nsx_05.jpg", "nsx_06.jpg", "nsx_07.jpg", "nsx_08.jpg", "nsx_09.jpg"]
+		},
+		{
+			"title": "Infinite Crisis (DC Comics)",
+			"byline": "Website, Print",
+			"thumb": "thumb_ic.png",
+			"roles": "Creative Director, Designer",
+			"media": "Outdoor, Print",
+			"client": "DC Comics",
+			"pretty": "infinitecrisis",
+			"blurb": "DC Comics has a blockbuster MOBA (Massiveley Multiplayer Battle Arena) title on their hands with Infinite Crisis. Merging all the worlds, heroes and villains from the entire DC Comics canon provides for some seriously epic match-ups. Superman versus the Joker? Wonder Woman versus Batman? Or how about Batman and the Joker fighting together as allies? It's all here in this smash-up sensation! This print and outdoor design work was done on spec for Trailer Park.",
+			"singleImages": ["ic_01.jpg", "ic_02.jpg"]
+		},
+		{
+			"title": "HR-V (Honda)",
+			"byline": "Print",
+			"thumb": "thumb_hrv.png",
+			"roles": "Creative Director, Designer",
+			"media": "Print",
+			"client": "Honda",
+			"pretty": "hrv",
+			"blurb": "A spec print campaign for the Honda HR-V recreational utility vehicle launch.",
+			"singleImages": ["hrv_01.jpg", "hrv_02.jpg", "hrv_03.jpg", "hrv_04.jpg"]
+		},					
+		{
+			"title": "True Detective (HBO)",
+			"byline": "Website, Print",
+			"thumb": "thumb_tru.png",
+			"roles": "Creative Director",
+			"media": "Website, Print",
+			"client": "HBO",
+			"pretty": "truedetective",
+			"blurb": "As the digital hub of the long-lead narrative campaign for HBO’s highly anticipated new series True Detective, we wanted to create a website that would work hard for us to keep consumers engaged. The goal was to introduce a multitide of intriguing opportunities for interaction with minimal effort on the user's part, encouraging them to become the detectives and dig as deep as they dared into the wealth of content pulled right from the twisted and complex world of the show. To provide this type of user experience, we opted to build a parallax scrolling site. Vertical scrolling is a paradigm that users have adopted as the norm--our social feeds and apps are all controlled through a downward scroll. This navigation scheme also gives the user a sense of depth and motion, a perfect metaphor for the storytelling devices used in the show. And although the show narrative moves back and forth in time between story threads that take us deeper into the darkness of the case, the site content is ever present and stays in a linear sequence so return visitors can pick up right where they left off. And as the site evolves and expands with new content each week, visitors will always have new activities to interact with and new video content to share with a few clicks. Fewer clicks means deeper engagement. And with this site and this storyline, the deeper it gets, the better!",
+			"tiledImages": ["tru_01.jpg", "tru_02.jpg", "tru_03.jpg", "tru_04.jpg", "tru_05.jpg", "tru_06.jpg"]
+		},
+		{
+			"title": "Witches of East End (Lifetime)",
+			"byline": "Outdoor, Print",
+			"thumb": "thumb_woee.png",
+			"roles": "Creative Director",
+			"media": "Outdoor",
+			"client": "Lifetime",
+			"pretty": "witchesofeastend",
+			"blurb": "Lifetime had two goals in mind with the Witches of East End. Success meant creating a buzzworthy, eye-catching print campaign to launch the all new TV series that would also strengthen efforts to reposition the Lifetime Network as a competitor with edgier cable networks like HBO, Showtime and AMC. To achieve this, we looked at how witches were perceived culturally and historically to find a way in. We all know that witches were notoriously burned at the stake and made to suffer for the sins of being mysterious, powerful and seductive women. In this campaign, we invert that relationship of power by showcasing our modern witches embracing their sexuality and wearing the symbol of their persecution as a badge of honor. The flames of their tortured pasts now accent their beauty and symbolize an age-old mastery of elemental power, magic and mystery.",
+			"singleImages": ["woee_01.jpg"],
+			"tiledImages": ["woee_01.jpg", "woee_02.jpg", "woee_03.jpg", "woee_04.jpg"]
+		},
+		{
+			"title": "Netflix Kids",
+			"byline": "TV",
+			"thumb": "thumb_nfk.png",
+			"roles": "Creative Director, Writer",
+			"media": "TV",
+			"youtubeURLs": ["tF8_cxfLW3k"],
+			"client": "Netflix",
+			"pretty": "netflixkids",
+			"blurb": "The goal of this launch spot was to introduce the Netflix Kids service to existing Netflix subscribers and drive acquisition of new subscriptions in the US, UK and Nordic markets. Netflix Kids is a walled garden of entertainment curated for younger viewers who consume content voraciously in similar patterns as adults. The goal was to communicate to parents that Netflix is a trusted partner in providing kid-safe entertainment without relying on positioning Netflix as a babysitter for inattentive parents--a human truth that the brand wanted to  diminish. We wanted to show that kids were empowered to make decisions about how, what and when they enjoyed Netflix while parents can feel confident that their children aren’t growing up too quickly. The result is a quirky, cute spot that finds the sweet spot between product demo and lifestyle narrative.",
+			"tiledImages": ["nfk_02.jpg", "nfk_03.jpg", "nfk_04.jpg", "nfk_01.jpg"]
+		},
+		{
+			"title": "Esquire Network",
+			"byline": "TV, Print",
+			"thumb": "thumb_esq.png",
+			"roles": "Creative Director, Writer",
+			"media": "TV, Print",
+			"youtubeURLs": ["s9qQopM3IGs"],
+			"client": "Esquire Network",
+			"pretty": "esquirenetwork",
+			"blurb": "To launch NBCUniversal's new cable channel, the Esquire Network, strategically we chose to position the new Esquire Channel as every man’s mentor; his older and wiser friend who could help him understand an important truth: ‘We only get a certain amount of time on this planet; there’s only one chance to truly live. So make the most of it.’ We needed to demonstrate the benefits of a life well lived and prove the theory that life is not been about meeting expectations, it’s about defining your own. To achieve this, we created a multi-touchpoint campaign that defined what it means to be an Esquire man. Our creative concepts showed aspirational scenes of men living life to the fullest – from bucket list stunts like base jumping to the fine arts of wine and cooking, we brought Esquire from page to screen in an exciting, inviting mix of print, online and broadcast spots.",
+			"tiledImages": ["esq_01.jpg", "esq_02.jpg", "esq_03.jpg", "esq_04.jpg"]
+		},
+		{
+			"title": "Boardwalk Empire (HBO)",
+			"byline": "Experiential, Mobile App",
+			"thumb": "thumb_bwe.png",
+			"roles": "Creative Director",
+			"media": "Experiential, Mobile App",
+			"youtubeURLs": ["1QO-W0Zwcis"],
+			"client": "HBO",
+			"pretty": "boardwalkempire",
+			"blurb": "To eventize Season Three of HBO’s mega-popular prohibition era cable show Boardwalk Empire, and to re-engage fans and entice new viewers, we partnered with the popular on-demand car service Uber to provide free rides in vintage cars to fans in New York City, giving the rider the feeling that they were not only taking a step back into the roaring 1920’s, but also invoking the themes of Boardwalk Empire by riding like a gangster. During the promotion, Uber members could use their accounts to hail Boardwalk Empire branded vintage vehicles, just like those driven by Nucky Thompson in the show. Over 2,500 rides were requested and social media influencers and bloggers were also courted with rides to work. An online outreach campaign helped to increase awareness of the promotion among top tier bloggers which drove over eight million unique impressions and put the campaign on the front pages of cornerstone platforms, making it one of the most memorable partnerships of 2012.",
+			"tiledImages": ["bwe_01.jpg", "bwe_02.jpg", "bwe_03.jpg", "bwe_04.jpg"]
+		},
+		{
+			"title": "Girls (HBO)",
+			"thumb": "thumb_gir.png",
+			"byline": "Partnership, Premium",
+			"roles": "Creative Director",
+			"media": "Partnership, Premium",
+			"client": "HBO",
+			"pretty": "girls",
+			"blurb": "To ramp up excitement leading up to the second season of HBO's landmark new series Girls, we partnered with nail polish innovators Incoco to create four custom designed nail appliqués for the HBO Girls season 2 premiere event. Each nail appliqué design was created to reflect the personality of each of the four main characters. The Jessa appliqués feature a marbleized turquoise stone, reminiscent of her fun, beautiful, and well-traveled persona. The more serious and responsible Marnie was paired with a neutral shade with a black crisscross pattern. Hannah's nail design, a faux bois in natural tones, is an homage to her bohemian, down-to-earth nature. And, Shoshanna's appliqués have little pink bows over a black base to reflect her bubbly and innocent, smart and playful personality. Our vendor Incoco was present at the premiere event to give manicures to the attendees, and the character-inspired nail strips were also available as a gift with purchase for a limited time at select Urban Outfitters stores.",
+			"tiledImages": ["gir_01.jpg", "gir_02.jpg"]
+		},
+		{
+			"title": "Duck Dynasty (A&E)",
+			"thumb": "thumb_dd.png",
+			"byline": "TV, Online, Outdoor, Premium",
+			"roles": "Creative Director, Writer",
+			"media": "TV, Online, Outdoor, Premium",
+			"vimeoURLs": ["50776977", "50721564"],
+			"client": "A&E",
+			"pretty": "duckdynasty",
+			"blurb": "Nobody could’ve predicted the runaway success of A&E’s hit reality series Duck Dynasty. But after the ratings bonanza in the first season, the network knew they had a bona fide hit on their hands. To make sure everyone was familiar with the bearded brothers and the rest of the Robertson clan, A&E needed a TV spot that showcased the themes of the show and introduced the key characters by way of a little backstory about how they came to be America’s favorite down-home duck hunting family. We travelled to the one and only Ouachita Parish in Louisiana and captured the family at work and at play to give the A&E audience a taste of what’s to come in Season Two and a glimpse at how it all began. The TV spot was teased by an outdoor print campaign inspired by classic rock albums that boldly and bristly proclaimed 'The Beards are Back.' And who could pass up on the chance to grow a beard of their own with the season's most popular stocking stuffer, 'Chia Willie?'",
+			"singleImages": ["dd_00.jpg"],
+			"tiledImages": ["dd_01.jpg", "dd_02.jpg", "dd_03.jpg", "dd_04.jpg", "dd_05.jpg", "dd_06.jpg"]
+		},
+		{
+			"title": "Toyota.com",
+			"thumb": "thumb_toy1.png",
+			"byline": "Website, Mobile",
+			"roles": "Associate Creative Director, Designer",
+			"media": "Website, Mobile",
+			"youtubeURLs": ["3Z_FnNLLAKg", "IlkjbQ8Yexo"],
+			"client": "Toyota",
+			"pretty": "toyotasite",
+			"blurb": "When Toyota set out to completely redesign and reimagine what an automotive website could and should be, it became apparent very quickly that there were lots of opportunities to change the game and to lead by example by creating a category leading destination for Toyota shoppers and owners. The challenges were plentiful and daunting. The site needed to be feature rich and technologically advanced, yet it needed to be simple and intuitive enough for all types of users, including grandmas and grandpas. It needed to big, bold, and stunningly beautiful, but it also needed to be fast, dynamic, responsive, and infinitely expandable. It needed to work hard for local dealers all over the nation while satisfying global marketing directives from Toyota executives across the globe. It needed to harness the connectivity of social network platforms in new and innovative ways and make shopping for a new car a truly sociable experience. But most of all, it had to deliver on the promise of becoming a trusted, transparent partner in the car shopping process. ",
+			"tiledImages": ["toy1_01.jpg", "toy1_02.jpg", "toy1_03.jpg", "toy1_04.jpg"]
+		},
+		{
+			"title": "Land Cruiser (Toyota)",
+			"thumb": "thumb_tlc.png",
+			"byline": "Mobile App",
+			"roles": "Associate Creative Director",
+			"media": "Mobile App",
+			"client": "Toyota",
+			"pretty": "landcruiser",
+			"blurb": "The 2014 Toyota Land Cruiser has a loyalty unmatched by any other SUV. The product of 60 years of global adventure, it's a sophisticated blend of off-road prowess and unparalleled refinement. This unique blend of qualities informed our decision to forego the traditional printed booklets found in dealerships and opt to create a digital e-brochure designed for viewing on tablets and smartphones instead. Knowing our audience is tech savvy and flush with disposable income, the e-brochure provided the opportunity to offer users an advanced yet intuitive interactive educational experience wherever and whenever they chose to engage with the Land Cruiser brand. Features and functions of the vehicle were brought to life with clever and satisfying interactions, rich, bold imagery and compelling content behind every swipe and tap.",
+			"tiledImages": ["tlc_01.jpg", "tlc_02.jpg", "tlc_03.jpg", "tlc_04.jpg"]
+		},
+		{
+			"title": "Let's Go Places (Toyota)",
+			"thumb": "thumb_lgp.png",
+			"byline": "Tagline, Global Rebrand",
+			"roles": "Associate Creative Director, Writer",
+			"media": "Tagline, Global Rebrand",
+			"youtubeURLs": ["rR_Ag6R1Kz8", "YVKCXJxTdRI"],
+			"client": "Toyota",
+			"pretty": "letsgoplaces",
+			"blurb": "After many years of simply ‘Moving Forward,’ Toyota was looking for a brand new global tag line that would reflect the company’s commitment to more exciting products and the promise that customers will take part in shaping Toyota’s future. The new theme also needed to communicate and celebrate the Japanese philosophy known as ‘waku doky,’ which translates to ‘the feeling of anticipation and that adrenaline rush you get when you are about to do some exciting.’ Several agencies including Saatchi & Saatchi, Dentsu America, and Conill were invited to contribute lines, but after months on end and thousands of entries reviewed and considered, I’m proud to say that the first of the many tag lines I wrote and contributed was chosen by Toyota Motor Corporation President, Akio Toyoda, to represent one of the worlds largest, most profitable and recognizable brands. ‘Let’s Go Places’ is energetic, aspirational, inclusive and very versatile. The phrase conveys a dual meaning of physically going places and taking off on an adventure, while also expressing optimism and the promise of exciting innovation that enriches people’s lives.",
+			"tiledImages": ["lgp_01.jpg", "lgp_02.jpg"]
+		},
+		{
+			"title": "RAV4 (Toyota)",
+			"thumb": "thumb_rav.png",
+			"byline": "Web Video, Rich Media",
+			"roles": "Associate Creative Director",
+			"media": "Web Video, Rich Media",
+			"youtubeURLs": ["9x9ycsjMV40", "2ZTN2q57ZG0"],
+			"client": "Toyota",
+			"pretty": "rav4",
+			"blurb": "The RAV4 is a sport ‘activity’ vehicle for busy active people, so Toyota wanted a digital campaign that acknowledged this insight. In a transparent, self-aware approach, we cast an up-and-coming female comedian that would likely resonate with our active, female skewing demographic and made her the champion of avoiding typical time wasters online, like pre-roll ads and loading bars. Knowing this would be a digital campaign that utilized lots of video, we let the cameras roll and had a ton of fun with the improvisational comedic style in which we poked fun at online ads, cheesy voice-overs, gaudy graphic logo treatments, internet memes, and of course, cat videos. On YouTube, we even encouraged users to skip our video ads. However, if the user didn’t click the skip button, the ad would play for over ten minutes! On Hulu, we created 23 different pre-roll ads that not only cracked us up but also called out all the RAV4's new features. Rich media banners showed our funnywoman smashing spinning hourglasses and lassooing lagging loading bars, and a paired down website wasted no time in demonstrating all the important new features and none of the fluff.",
+			"tiledImages": ["rav_01.jpg", "rav_02.jpg", "rav_03.jpg", "rav_04.jpg", "rav_05.jpg", "rav_06.jpg"]
+		},
+		{
+			"title": "Shareathon (Toyota)",
+			"thumb": "thumb_sha.png",
+			"byline": "Website, Web App, Social Platform",
+			"roles": "Associate Creative Director",
+			"media": "Website, Web App, Social Platform",
+			"youtubeURLs": ["tDJWtiridlU"],
+			"client": "Toyota",
+			"pretty": "shareathon",
+			"blurb": "To leverage social media to build incremental awareness of Toyota’s annual Toyotathon sales event, we asked the world, ‘How much is a tweet worth?’ Ultimately, those who participated learned that a tweet could be worth $500, thanks to our Sharethon promotion that rewarded those who purchased a new Toyota during the event with a $500 debit card, just for tweeting about it. To qualify, users need to visit toyotashareathon.com and send a simple tweet through Toyota's application. After purchasing a Toyota, owners could redeem their $500 card on the same page. The goal was to get users who may have been considering purchasing a Toyota to spread the word about the campaign, even if they didn’t end up purchasing one. Toyota was willing to reward purchasers so heavily for tweeting because we convinced them that that $500 is a significant enough offer to stimulate consumer interest and generate strong buzz throughout the social space. Tweets and other social media efforts helped us create velocity behind an immediate call to action for consumers to take advantage of a program like this.",
+			"tiledImages": ["sha_01.jpg", "sha_02.jpg", "sha_03.jpg", "sha_04.jpg"]
+		},
+		{
+			"title": "Prius Plug-In Hybrid (Toyota)",
+			"thumb": "thumb_pri.png",
+			"byline": "Print",
+			"roles": "Associate Creative Director",
+			"media": "Print",
+			"client": "Toyota",
+			"pretty": "priuspluginhybrid",
+			"blurb": "The Prius Plug-In Hybrid is the long-awaited, fourth member of the Prius family. Every Prius is an overachiever, but Prius Plug-in is a true show-off. It's the most advanced one with two ways to help achieve great mileage. In hybrid mode, it operates like a Prius and earns a remarkable  mileage rating of 50 mpg. Should you run out of electric charge, Prius Plug-in will seamlessly shift back into hybrid mode. To communicate the benefits of this hybrid/electric duality in trade magazines, we tapped a world-renowned illustrator also known for innovation and ground-breaking contributions to his field of graphic design; Alex Trochut. It was an honor and a pleasure to collaborate with Mr. Trochut in creating this ad, and we’re proud that his signature artistic style proved to be a perfect fit for the Prius brand, the target audience and the tone of the ad itself.",
+			"singleImages": ["pri_00.jpg"]
+		},
+		{
+			"title": "ToyoTag (Toyota)",
+			"thumb": "thumb_toy2.png",
+			"byline": "TV, Video Content",
+			"roles": "Associate Creative Director",
+			"media": "TV, Video Content",
+			"youtubeURLs": ["48vbYm0s6UU"],
+			"client": "Toyota",
+			"pretty": "toyotag",
+			"blurb": "When Toyota wanted to introduce the ToyoTag--their innovative solution to enable smartphone users to connect with Toyota via new “snap tag” technology, they needed to communicate the consumer benefits of a fairly complicated product in a fun, intuitive and entertaining way that encouraged adoption of the “snap tag” behavior that would ultimately deliver a rich brand experience, activate lead generation, enable CRM and collect consumer data. Our solution was creating a short animated video that demonstrates the new technology in a quirky, humorous and engaging style. Our animated characters and worlds conveyed the benefits of the ToyoTag and the partnering Toyota Shopping Tool App to make understanding and using ToyoTags easy enough for crazy cat ladies and even Bigfoot to do it.",
+			"tiledImages": ["toy2_01.jpg", "toy2_02.jpg", "toy2_03.jpg", "toy2_04.jpg"]
+		},
+		{
+			"title": "Disney Share",
+			"thumb": "thumb_dsh.png",
+			"byline": "Intranet Site",
+			"roles": "Creative Director, Designer",
+			"media": "Intrenet Site",
+			"client": "Disney",
+			"pretty": "disneyshare",
+			"blurb": "Our friends at Disney had been tinkering with the notion of creating a company wide intranet that would shine the spotlight on creative output in offices across the globe. The goal was to enable Disney artists, designers, developers, art directors, etc. see and become inspired by the amazing work being credited by their contemporaries in all aspects of creative endeavors, supporting the uploading, labeling, categorizing, sharing and commenting on a wide variety of popular video and graphic formats. The project required a heavy investment in information architecture, user experience strategy and interface design in order to build a platform that was easy to use, easy on the eyes, and easy to expand in scope as the network of users provided feedback and new functionality requests in what was a very exciting collaboration with some of the smartest people in any rooms at Disney.",
+			"tiledImages": ["dsh_01.jpg", "dsh_02.jpg", "dsh_03.jpg", "dsh_04.jpg"]
+		},
+		{
+			"title": "Mickey Mouse (Disney)",
+			"thumb": "thumb_mm.png",
+			"byline": "Website",
+			"roles": "Creative Director, Designer",
+			"media": "Website",
+            "youtubeURLs": ["-8Gue7hkKZE"],
+			"client": "Disney",
+			"pretty": "mickeymmouse",
+			"blurb": "The franchise managers at Disney had a unique and prolific challenge for us--how do we make one of the most iconic symbols in the world, Mickey Mouse, relevant to a new generation of youngsters who live online and know him mostly as a semi-retired brand ambassador that lives exclusively at Disney theme parks? In addition, how do we create a platform that leverages Mickey’s global popularity and showcases the vast amount of products and merchandise available for sale online? The answer came in a high-tech execution of a very traditional entertainment construct, the 'stage and curtain' show. We created a stage for Mickey and the rest of the Fab Five (Donald, Pluto, Goofy, and Minnie) to inhabit and take turns assuming the role of ‘masters of digital ceremonies’ as they personally hosted a dynamic mosaic wall of content behind them, taking turns introducing the games, videos, and products for their guests. We even created a custom ‘Mousebook’ section for our beloved characters that took inspiration in form and function from Facebook but became wholly unique in the unmistakable addition of Disney magic.",
+			"tiledImages": ["mm_01.jpg", "mm_02.jpg", "mm_03.jpg", "mm_04.jpg"]
+		},
+		{
+			"title": "Winnie the Pooh (Disney)",
+			"thumb": "thumb_wtp.png",
+			"byline": "Website, Online Games",
+			"roles": "Creative Director, Designer",
+			"media": "Website, Online Games",
+			"client": "Disney",
+			"pretty": "winniethepooh",
+			"blurb": "In preparation and support of Disney’s forthcoming Winnie the Pooh film (2011), Disney tapped us to create a brand new digital hub for one of the most popular and successful global franchises in Disney history. With massive popularity abroad (overwhelmingly celebrated in the United Kingdom, from which the beloved author, books and characters originated) and an historically inexhaustible demand for infant and toddler products, the website had a lot of heavy lifting to do in support of this billion-dollar behemoth of a franchise. The website was also one of the first Disney microsites to weigh the benefits of using an HTML framework with embedded Flash content used selectively and sparingly, as the tablet and smartphone market was about to explode with or without Flash support. The result was a fun, whimsical site for users of all ages that celebrated new film, the old friendships, the fun times and remarkable history of Winnie, Tigger, Piglet, Eeyore, Owl, Christopher Robin and the rest of the gang in the Hundred Acre Wood.",
+			"tiledImages": ["wtp_01.jpg", "wtp_02.jpg", "wtp_03.jpg", "wtp_04.jpg"]
+		},
+		{
+			"title": "Disney.com Navigation",
+			"thumb": "thumb_dnav.png",
+			"byline": "Interactive Prototype",
+			"roles": "Creative Director, Designer",
+			"media": "Interactive Prototype",
+			"client": "Disney",
+			"pretty": "disneynavigation",
+			"blurb": "With over a million visitors per day on average, Disney.com is one of the most highly-trafficked websites in the world. The Disney Interactive team was just about to completely redesign the site but was still looking for a winning solution for the character navigation on the homepage. The challenge was to design and create a working prototype of a navigation system that would be inviting and eye grabbing, intuitively simple, fun and easy to use, but most importantly, it needed to include a dynamic sorting mechanism that would allow users to quickly narrow down their choices with a set of toggles that would adjust the items that appeared in the navigation on the fly. We developed several designs and applied many physics, motion and animation techniques to bring them to life. Ultimately the working prototypes created wowed the intended audiences, including Bob Iger, the current chairman and chief executive officer of The Walt Disney Company!",
+			"tiledImages": ["dnav_01.jpg", "dnav_02.jpg", "dnav_03.jpg", "dnav_04.jpg"]
+		},
+		{
+			"title": "Prep & Landing (Disney)",
+			"thumb": "thumb_pal.png",
+			"byline": "Website",
+			"roles": "Creative Director, Designer",
+			"media": "Website",
+			"client": "Disney",
+			"pretty": "prepandlanding",
+			"blurb": "Join Wayne and Lanny as they navigate you through the 'totally tinsel' holiday world of Disney's Prep & Landing. Fans are treated to tons of great activites, games, products, videos, and downloads featuring our favorite, fearless and funny Christmas elves. Using the top-secret Winterpedia database, users can learn all about their favorite characters and gadgets and even join the high tech world of seasonal spying and sneak a peek at Santa's Workshops with live security cameras set up personally for your viewing pleasure by Wayne and Lanny.",
+			"tiledImages": ["pal_01.jpg", "pal_02.jpg", "pal_03.jpg", "pal_04.jpg"]
+		},
+		{
+			"title": "Super Civic Quest (Honda)",
+			"thumb": "thumb_scq.png",
+			"byline": "Website, Contest/Promotion",
+			"roles": "Creative Director, Designer, Writer",
+			"media": "Website, Contest/Promotion",
+			"youtubeURLs": ["3ZdwHrvtAuo", "ygSXYfQFpbo"],
+			"client": "Honda",
+			"pretty": "supercivicquest",
+			"blurb": "When the 2012 Honda Civic came out, we created a campaign that embraced the idea that we're all different and no matter who-- or what-- you are, there's a Civic out there that's perfect for you. From texting, tweeting, sharing, and chatting, the new generation lives online. So we introduced them to Cesar the Luchador. Cesar needed help. He lost his Civic Coupe somewhere in the digital universe and needed help from Civic fans in the first of it's kind 'digital scavenger hunt.' Tons of prizes were given away, including two brand new Honda Civics. The game was led by clues through facebook, youtube, yelp, twitter, amazon, foursquare and flickr, amongst many more. Users were tasked with using their desktop computers, smartphones, tablets, and sometimes a combination of the above. The 'Super Civic Quest' was the most ambitious digital quest ever produced. In total we created seven web films, content for 30 unique sites and apps, 30 badges, and even our own augmented reality app. What was going to be just an online campaign eventually  spilled into an additional thirty second spot that played alongside the ‘To Each Their Own’ Civic campaign.",
+			"tiledImages": ["scq_01.jpg", "scq_02.jpg", "scq_03.jpg", "scq_04.jpg"]
+		},
+		{
+			"title": "Soul Shuffle Slam (Kia)",
+			"thumb": "thumb_sss.png",
+			"byline": "Website",
+			"roles": "Creative Director",
+			"media": "Website",
+			"youtubeURLs": ["HJZO2vJe60c", "17wZ0dkxIbk"],
+			"client": "Kia",
+			"pretty": "soulshuffleslam",
+			"blurb": "In the third installment of the highly popular Kia Soul Hamsters campaign, David & Goliath tapped us to help conceive and develop a one of a kind promotional contest experience to build excitement around the forthcoming 2012 Kia Soul launch. The Soul Shuffle Slam was a digital dance competition hosted by LMFAO that aimed to find the world's best \"Shufflers\". Visitors were driven to the YouTube hosted brand channel via a barrage of online media and were then prompted to upload their best dance video for a shot at winning $10,000, or to simply watch head to head video battles to separate the good from the very very bad. With plenty of social media hooks, site visitors were encouraged to comment on, share and challenge the contestant entries in smart and meaningful ways. A highly adaptable HTML5 experience, the Shuffle Slam lived simultaneously on YouTube, Facebook as well as on a self standing mobile site, all while being viewable from IE7 to iOS and Android devices.",
+			"tiledImages": ["sss_01.jpg", "sss_02.jpg"]
+		},
+		{
+			"title": "Lost Fan Art Wall (ABC)",
+			"thumb": "thumb_lfaw.png",
+			"byline": "Website",
+			"roles": "Creative Director, Designer",
+			"media": "Website",
+			"client": "ABC",
+			"pretty": "lostfanartwall",
+			"blurb": "Critically acclaimed and a popular success, Lost has evolved into a cultural phenomenon that has engaged millions of viewers worldwide, year after year. Reflecting its devoted fan base, the series has become an integral part of American popular culture with references to the fictional universe appearing in other television series, commercials, comics, magazines, video games, song lyrics, and fine art. In partnership with ABC, we developed an interactive Lost fan art gallery where artists of all discipline are invited to be a part of LOST history by uploading artwork for the series and having their work seen by millions.",
+			"tiledImages": ["lfaw_01.jpg", "lfaw_02.jpg", "lfaw_03.jpg", "lfaw_04.jpg"]
+		},
+		{
+			"title": "The Simpsons (FOX)",
+			"thumb": "thumb_simp.png",
+			"byline": "Website",
+			"roles": "Creative Director",
+			"media": "Website",
+            "youtubeURLs": ["ePTybtGjbXA"],
+			"client": "FOX, The Simpsons",
+			"pretty": "thesimpsons",
+			"blurb": "To commemorate America's favorite family and the start of their 23rd season on the air, fans are dropped into the immersive setting of Springfield Elementary's Career Day and encouraged to hop from booth to booth for full episodes, fun facts, recaps, downloads and other digital delectables. Test your knowledge around the Simpsons' characters, find out about new guest stars or even shop for your favorite memorabilia.",
+			"tiledImages": ["simp_01.jpg", "simp_02.jpg", "simp_03.jpg", "simp_04.jpg"]
+		},
+		{
+			"title": "Glee N.A. (FOX)",
+			"thumb": "thumb_gna.png",
+			"byline": "Website",
+			"roles": "Creative Director, Designer",
+			"media": "Website",
+            "youtubeURLs": ["EniX10GVBD4"],
+			"client": "FOX",
+			"pretty": "gleena",
+			"blurb": "Looking to capitalize on the breakthrough success of their immensely popular musical comedy-drama, Glee, FOX came up with the challenge of creating a series of mini-games that are fun, addictive, and ultimately encapsulate the \"Glee high school experience.\" We developed an over-arching game design concept that infuses the storylines, characters and themes from the series with eight unique mini-game challenges. Players are able to login via Facebook connect and share their pursuit of guts and glory with friends as they find their true, inner-Gleek!",
+			"tiledImages": ["gna_01.jpg", "gna_02.jpg", "gna_03.jpg", "gna_04.jpg"]
+		},
+		{
+			"title": "Glee Photo Booth (FOX)",
+			"thumb": "thumb_gpb.png",
+			"byline": "Website",
+			"roles": "Development Lead, Animation, Production",
+			"media": "Website",
+            "youtubeURLs": ["mYPmh-Pbcxc"],
+			"client": "FOX, HP",
+			"pretty": "gleephotobooth",
+			"blurb": "As the Glee phenomenon continues its meteoric rise upward, Fox communicated a need to maintain a digital presence between seasonal offerings. To keep the Glee community engaged and active, we created a \"virtual photo booth\" which allows users to create custom photo strips featuring their webcam photos alongside Glee cast photos. With streamlined camera functionality and a comprehensive \"create and share\" component offering multiple export options, anyone can pile in the booth, snap some shots, and take home a digital keepsake to post, print or send.",
+			"tiledImages": ["gpb_01.jpg", "gpb_02.jpg", "gpb_03.jpg", "gpb_04.jpg"]
+		},
+		{
+			"title": "South Park Avatar Creator",
+			"thumb": "thumb_spac.png",
+			"byline": "Web App, Mobile App",
+			"roles": "Creative Director, Designer",
+			"media": "Web App, Mobile App",
+            "youtubeURLs": ["oZe3qtGABOo"],
+			"client": "South Park Studios",
+			"pretty": "southparkavatarcreator",
+			"blurb": "Everybody knows South Park for their hilariously scathing satire, but most don't know that South Park is Comedy Central's highest rated and longest running program. To keep their rabid fan base engaged with the iconic cast of characters, South Park Studios needed to totally re-imagine and recreate their existing Avatar Creator. Working closely with South Park Studios, the Avatar Creator experience has been elevated to a whole new level with streamlined interfaces, ultra-intuitive editing flows and functions, improved graphics and expanded asset libraries, and a wide range of options for output and even more opportunities to share that user-generated content via social media channels.",
+			"tiledImages": ["spac_01.jpg", "spac_03.jpg"]
+		},
+		{
+			"title": "Human Target (FOX)",
+			"thumb": "thumb_htar.png",
+			"byline": "Online Game",
+			"roles": "Creative Director, Designer",
+			"media": "Online Game",
+            "youtubeURLs": ["hQP8WPbSKvg"],
+			"client": "FOX",
+			"pretty": "humantarget",
+			"blurb": "FOX Broadcasting Company wanted to increase awareness and heighten the buzz around their new full-throttle action drama, Human Target. The team was asked to create and develop an online game of the third-person shooter variety based on the themes and characters from the new series. The result is AGENT TRAINING: Target Practice, a highly polished training simulation for would-be agents (or anyone with ten minutes to spare) to sharpen their virtual firing range skills. With adjustable difficulty settings, casual gamers and hardcore shooters alike are challenged from start to finish. Just don't forget to reload!",
+			"tiledImages": ["htar_01.jpg", "htar_02.jpg", "htar_03.jpg", "htar_04.jpg"]
+		},
+		{
+			"title": "Monsters vs. Aliens (Energizer)",
+			"thumb": "thumb_mva.png",
+			"byline": "Website, Online Game",
+			"roles": "Creative Director",
+			"media": "Website, Online Game",
+			"client": "Dreamworks Animation",
+			"pretty": "monstersvsaliens",
+			"blurb": "Citing our intrinsic understanding of successful Flash-based interactive games, TBWA/Chiat/Day called upon our team to create a site with a game at it's core. Based on scenarios, weapons and characters from the Dreamworks film Monsters vs. Aliens, players visit cities across the nation in an attempt to stop the monster invasion. Victories are awarded with customizable medals that players can share online or print and frame.",
+			"tiledImages": ["mva_01.jpg", "mva_02.jpg", "mva_03.jpg", "mva_04.jpg"]
+		},
+		{
+			"title": "Kia Soul",
+			"thumb": "thumb_soul.png",
+			"byline": "Website, Online Game",
+			"roles": "Creative Director",
+			"media": "Website, Online Game",
+            "youtubeURLs": ["yVvU6QzMe7k"],
+			"client": "Kia",
+			"pretty": "kiasoul",
+			"blurb": "When Kia took a bold, new direction in designing the Soul, our team was called on to create a unique, quirky world for the car to live in. The site extends the tone and feel of the campaign online with dynamic animations, a simple, clean user experience, fresh music and plenty of fun, unexpected interactions that further immerse viewers in the innovative features of the car. As a result, the site feels like something with, well... a soul.",
+			"tiledImages": ["soul_01.jpg", "soul_02.jpg", "soul_03.jpg", "soul_04.jpg"]
+		},
+		{
+			"title": "Kia Sorento",
+			"thumb": "thumb_sor.png",
+			"byline": "Superbowl TV",
+			"roles": "Freelance Creative Director, Writer",
+			"media": "Superbowl TV",
+			"youtubeURLs": ["r1TLFW68iME"],
+			"client": "Kia",
+			"pretty": "sorento",
+			"blurb": "I’ve had the rare privilege to work at a few agencies in which clients were developing creative  for Superbowl spots, and even less occasionally I was one of few creatives included in that effort at that time and place. However, due to the sizable investment in media and production dollars, it’s a very rare feather in your cap to see your concept come alive on Superbowl Sunday. With David and Goliath and the Kia Sorento, I finally achieved that milestone. Working with a talented team, the concept of ‘a child’s favorite toys daydreaming about a joyride in a Kia Sorento’ became one of the most buzzed about spots of the Big Game that year. We even saw another automaker prove that imitation is the sincerest form of flattery by producing another eerily similar spot recently. I guess in their case, ‘if you can’t beat ‘em, copy em!’",
+			"tiledImages": ["sor_01.jpg", "sor_02.jpg", "sor_03.jpg", "sor_04.jpg"]
+		},
+		{
+			"title": "Fox Careers",
+			"thumb": "thumb_fxc.png",
+			"byline": "Website",
+			"roles": "Creative Director, Designer",
+			"media": "Website",
+    		"youtubeURLs": ["bl75iQDGvKk"],
+			"client": "FOX",
+			"pretty": "foxcareers",
+			"blurb": "The human resources team at 20th Century Fox tapped us with the unique assignment of re-imagining their company-wide recruitment website as a modern, high-impact entertainment site that provides potential candidates with dynamic job listings, news, information, and career advice. In addition to creating the new look and feel of Fox Careers, the site was required to fully integrate with their pre-existing back-end human resources management system. We formed a design and development strategy around the client’s initiatives. With a new bold, sexy and sophisticated look, the site was also designed to handily deliver on the desired functionality, back-end integration and the leveraging of social networking tools. ",
+			"tiledImages": ["fxc_01.jpg", "fxc_02.jpg", "fxc_03.jpg", "fxc_04.jpg"]
+		},
+		{
+			"title": "Adobe Creative Suite",
+			"thumb": "thumb_cs5.png",
+			"byline": "Website",
+			"roles": "Art Director, Designer",
+			"media": "Website",
+			"client": "Adobe, Juxt Interactive",
+			"pretty": "creativesuite",
+			"blurb": "Digital concepts and spec website designs for Adobe Creative Suite via Juxt Interactive.",
+			"tiledImages": ["cs5_01.jpg", "cs5_02.jpg", "cs5_03.jpg", "cs5_04.jpg"]
+		},
+		{
+			"title": "Heavenly Sword (SCEA)",
+			"thumb": "thumb_hs.png",
+			"byline": "TV Spot, Rich Media",
+			"roles": "Sr. Art Director",
+			"media": "TV Spot, Rich Media",
+			"youtubeURLs": ["PkTrh39av1Y"],
+			"client": "Sony Computer Entertainment of America",
+			"pretty": "heavenlysword",
+			"blurb": "As one of the most anticipated exclusive launch titles for the Playstation 3 console, Heavenly Sword was a triple-A title with a huge story to tell. Starring a bold, beautiful and deadly protagonist with flowing red hair and wielding dual swords on chains, and featuring the imaginative genius of motion capture and voice actor phenom Andy Serkis, this title needed a TV launch spot that could introduce, entertain, and deliver on the great promise of the game itself. Once the narrative was locked, the execution became the focus as we partnered with a legendary French director Erick Ifergan and the revered special effects powerhouse behind Gladiator and other great films, none other than The Mill in London. To bring the protagonist to life, we cast a supermodel with martial art skills and combined her live-action moves, close-up facial expressions and mo-cap data with the in-game models to create a character on screen that moved like the video game but looked photo-real. Other practical elements like hair and red paint were shot separately at 1,000 frames per second and merged meticulously with the character’s attacks and sped up and slowed down to heighten the intensity and brutality of the battle, in an homage to the blood bathed speed-ramping technique used in Zach Snyder’s film, 300. With a production budget exceeding 1 million, this was by far the most expensive but  creatively liberating, educational and gratifying project I’ve worked on yet.",
+			"tiledImages": ["hs_01.jpg", "hs_02.jpg", "hs_03.jpg", "hs_04.jpg", "hs_05.jpg", "hs_06.jpg", "hs_07.jpg", "hs_08.jpg"]
+		},
+		{
+			"title": "PlayStation (SONY)",
+			"thumb": "thumb_ps.png",
+			"byline": "Website",
+			"roles": "Sr. Art Director",
+			"media": "Website",
+			"client": "Sony Computer Entertainment of America",
+			"pretty": "playstation",
+			"blurb": "While tackling the forthcoming launch of the Playstation 3 console, I was simultaneously given the assignment to redesign the Playstation website to not only capitalize on the momentum of a new console cycle, but to also expand the scope and style of the user experience. More specifically, we needed to champion the PS3 as the pinnacle in the evolution of home entertainment without diminishing the presence or popularity of the previous gaming consoles, devices and software. By taking design cues from the sleek external casing of the PS3 console itself, I created a visual construct that felt sexy, mysterious, powerful and new but also inherently looked like it was cut from the same cloth as the new console, and powered by the same technology inside. I also developed a global color system that associated a primary hue with each of the unique consoles (red for PS3, blue for PS2, and yellow for PSP) so the  hardware, software, products and content was more easily navigable and also paid homage to the primary color scheme the brand has featured in its logo and on its controllers for decades.",
+			"singleImages": ["ps_01.jpg"]
+		},
+		{
+			"title": "PSP (SONY)",
+			"thumb": "thumb_psp.png",
+			"byline": "TV, Web Video, Website, Retail",
+			"roles": "Sr. Art Director, Writer",
+			"media": "TV, Web Video, Website, Retail",
+			"youtubeURLs": ["9HJ747jbQxw", "6lhPDDbXbwQ"],
+			"client": "Sony Computer Entertainment of America",
+			"pretty": "psp",
+			"blurb": "The Playstation Portable, or PSP, was about to see it’s first major price reduction since Sony’s first and only handheld gaming device launched successfully years earlier. To drive home the notion that ‘everyone should have their own PSP’ we looked at the way gamers used the product alone and with friends and found a hilarious and exploitable human truth in a behavior we called ‘back-seat gaming.’ Anyone who has ever played a video game in the presence of a friend or stranger who's more excited and vested in their success than they are will understand this concept. Wether they realize they’re being annoying or just truly think they’re being helpful, the potential for comedy in these situations proved to be fertile ground as we explored what a normal dude might endure if he pulled out his PSP on a long flight sitting next to the most unaware yet annoying backseat gamer ever. We shot six different spots starring our unlikely duo as they played games, watched movies and listened to music together, demonstrating the feature set of the product while creating an iconic comedy character that spawned hundreds of thousands of positive comments, ratings, shares and even spoofs!",
+			"tiledImages": ["psp_01.jpg", "psp_02.jpg", "psp_03.jpg", "psp_04.jpg", "psp_05.jpg", "psp_06.jpg", "psp_07.jpg", "psp_08.jpg"]
+		},
+		{
+			"title": "Rogue Galaxy (SCEA)",
+			"thumb": "thumb_rg.png",
+			"byline": "Print, Rich Media",
+			"roles": "Sr. Art Director",
+			"media": "Print, Rich Media",
+			"client": "Sony Computer Entertainment of America",
+			"pretty": "roguegalaxy",
+			"blurb": "A popular Japanese role-playing game for the Playstation 2, Rogue Galaxy was about to be ported (or adapted to English) for domestic distribution. While outer space may be an unexpected setting for a swashbuckling pirate adventure, the combination of science fiction and fantasy themes made for some compelling and unexpected creative concepts and exciting executions when developing a print and digital campaign. With an impressive print buy including consecutive single pages, inside covers and even a double gate-fold coupled with robust interactive campaign including expandable rich media units that invited users to text the characters and receive recorded messages with tips about the game from the heroes themselves, this game launch was out of this world and the client was over the moon!",
+			"singleImages": ["rg_01.jpg", "rg_02.jpg"],
+			"tiledImages": ["rg_04.jpg", "rg_05.jpg"]
+		},
+		{
+			"title": "Play B3yond (SONY)",
+			"thumb": "thumb_pb3.png",
+			"byline": "Outdoor, Website",
+			"roles": "Sr. Art Director",
+			"media": "Outdoor, Website",
+			"youtubeURLs": ["4gpN6M0Z5d8"],
+			"client": "Sony Computer Entertainment of America",
+			"pretty": "playb3yond",
+			"blurb": "In support of the launch of the PS3 console, the ‘Play B3yond’ campaign was my first full-fledged, 360 degree integrated platform. Beginning with the iconic commercials showing the black box floating in a white room, these esoteric spots suggested a secret, pure and unfettered space where the audience was invited to witness the strange and mysterious effect the PlayStation 3 has on anything placed near it--a metaphor for the brilliant experiences you'll have once you plug in your PS3 and let it take hold of your reality. The tease spots drove traffic online to PlayB3yond.com, an equally mysterious ‘white room’ website that featured a coded alphabet interface scrawled on a blank white wall. The key to unlocking this code was found in an out-of-home series of wild-postings that were photographed, assembled in photo-editing apps and shared by fans to form a large mural, which featured the symbols hidden in the artwork. It was my personal pleasure and great honor to design this entire mural myself, which ultimately merged key art and signature visual elements from six different launch titles into one action-packed tableau full of messages transcribed in a unique language. We created this secret language for hardcore gamers, who we knew would take the effort to discover and decode it. The new alphabet was derived from the very DNA of the Playstation by dissecting the four controller symbols and generating new glyphs from the disparate but recognizable pieces. As the posters showed up online, the code snippets embedded within them were discussed, scrutinized and pored over as a community of fans came together to solve the mystery of the white room website. After the site went viral, it became the digital hub for hundreds of thousands of inquisitive fans who got premiere access to exclusive, never-before seen content and videos showcasing the dramatic and radical new capabilities of the next generation console.",
+			"singleImages": ["pb3_01.jpg"],
+			"tiledImages": ["pb3_03.jpg", "pb3_04.jpg", "pb3_05.jpg", "pb3_06.jpg"]
+		},
+		{
+			"title": "Nissan GTR",
+			"thumb": "thumb_gtr.png",
+			"byline": "Rich Media",
+			"roles": "Sr. Art Director",
+			"media": "Rich Media",
+			"client": "Nissan",
+			"pretty": "nissangtr",
+			"blurb": "Rich media campaign for the launch of the Nissan GTR.",
+			"tiledImages": ["gtr_01.jpg", "gtr_02.jpg", "gtr_03.jpg", "gtr_04.jpg", "gtr_05.jpg", "gtr_06.jpg"]
+		},
+		{
+			"title": "Namco",
+			"thumb": "thumb_nam.png",
+			"byline": "Website",
+			"roles": "Interactive Art Director",
+			"media": "Website",
+			"client": "Namco",
+			"pretty": "namcosite",
+			"blurb": "Namco was in need of a website redesign that showcased a variety of their top tier titles in a cinematic fashion. Our solution was to create a first of its kind, widescreen key art feature marquee, which influenced the adjacent interactive title selection platform. The construct was designed to reinforce the tone and style of the Namco brand while creating an intuitive framework for housing a multitude of disparate multi-platform content.",
+			"singleImages": ["nam_01.jpg"]
+		},
+		{
+			"title": "Lemony Snicket's A Series of Unfortunate Events (Activision)",
+			"thumb": "thumb_ls.png",
+			"byline": "Website, Rich Media",
+			"roles": "Interactive Art Director",
+			"media": "Website, Rich Media",
+			"client": "Activision",
+			"pretty": "lemonysnicket",
+			"blurb": "Website and rich media for Lemony Snicket's A Series of Unfortunate Events video game.",
+			"singleImages": ["ls_01.jpg"],
+			"tiledImages": ["ls_02.jpg", "ls_03.jpg"]
+		},
+		{
+			"title": "Madagascar (Activision)",
+			"thumb": "thumb_mad.png",
+			"byline": "Website",
+			"roles": "Interactive Art Director",
+			"media": "Website",
+			"client": "Activision",
+			"pretty": "madagascar",
+			"blurb": "Website for Madagascar video game.",
+			"singleImages": ["mad_01.jpg"]
+		},
+		{
+			"title": "Ultimate Spider-Man (Activision)",
+			"thumb": "thumb_usm.png",
+			"byline": "Website, Rich Media",
+			"roles": "Interactive Art Director",
+			"media": "Website, Rich Media",
+			"client": "Activision",
+			"pretty": "ultimatespiderman",
+			"blurb": "Website for Ultimate Spider-Man video game.",
+			"singleImages": ["usm_01.jpg", "usm_02.jpg"]
+		},
+		{
+			"title": "Tony Hawk's American Wasteland (Activision)",
+			"thumb": "thumb_thaw.png",
+			"byline": "Website, Rich Media",
+			"roles": "Interactive Art Director",
+			"media": "Website, Rich Media",
+			"client": "Activision",
+			"pretty": "americanwasteland",
+			"blurb": "Website and rich media for Tony Hawk's American Wasteland video game.",
+			"singleImages": ["thaw_01.jpg", "thaw_02.jpg"]
+		},
+		{
+			"title": "Star Wars: Knights of the Old Republic II (LucasArts)",
+			"thumb": "thumb_swk.png",
+			"byline": "Website, Rich Media",
+			"roles": "Interactive Art Director",
+			"media": "Website, Rich Media",
+			"client": "LucasArts",
+			"pretty": "knightsoftheoldrepublic2",
+			"blurb": "Website and rich media for Star Wars: Knights of the Old Republic II video game.",
+			"singleImages": ["swk_00.jpg", "swk_02.jpg"],
+			"tiledImages": ["swk_01.jpg", "swk_05.jpg"]
+		},
+		{
+			"title": "Star Fox Assault (Nintendo)",
+			"thumb": "thumb_sfa.png",
+			"byline": "Rich Media",
+			"roles": "Interactive Art Director",
+			"media": "Rich Media",
+			"client": "Nintendo",
+			"pretty": "starfoxassault",
+			"blurb": "Rich media for Star Fox Assault video game.",
+			"singleImages": ["sfa_01.jpg"]
+		},
+    	{
+			"title": "San Francisco Zoo",
+			"thumb": "thumb_sfz.png",
+			"byline": "Outdoor",
+			"roles": "Art Director, Designer",
+			"media": "Outdoor",
+			"client": "San Francisco Zoo",
+			"pretty": "San Francisco Zoo",
+			"blurb": "Outdoor board promoting extended night hours at the San Francisco Zoo.",
+			"singleImages": ["sfz_01.jpg"]
+		}
+	]
+}
