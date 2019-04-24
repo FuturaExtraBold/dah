@@ -6,6 +6,7 @@
 	</head>
 	<body>
 		<?php include("cdn/php/views/header.php"); ?>
+		<?php include("cdn/php/views/reel.php"); ?>
 		<?php include("cdn/php/views/projects.php"); ?>
 		<?php include("cdn/php/views/clients.php"); ?>
 		<?php include("cdn/php/views/footer.php"); ?>
